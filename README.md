@@ -1,1 +1,1 @@
-# Sample-code-and-projects
+# Code implementation (Python, R, SAS, Mplus) of some projects
