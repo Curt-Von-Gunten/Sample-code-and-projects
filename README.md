@@ -1,1 +1,1 @@
-# Code implementation (Python, R, SAS, Mplus) of some projects
+Code implementation (Python, R, SAS, Mplus) for some projects in a word document.
